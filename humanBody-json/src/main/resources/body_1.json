@@ -1,0 +1,23 @@
+{
+	"head":{
+		"eye":"brown",
+		"ear":"round ear",
+		"mouth":"natural"
+	},
+	"upper body":{
+		"shoulder":"regular",
+		"arm":{
+			"upper arm":[10,11],
+			"forearm":[11,10],
+			"hand":"spatulate"
+		},
+	"lower part of body":{
+		"leg":{
+			"thigh":[24,23],
+			"calf":[23,24],
+			"foot":45
+			}
+		}
+	
+	}
+}

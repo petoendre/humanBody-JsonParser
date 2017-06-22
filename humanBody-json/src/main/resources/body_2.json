@@ -1,0 +1,23 @@
+{
+	"head":{
+		"eye":"blue",
+		"ear":"square ear",
+		"mouth":"Glamour"
+	},
+	"upper body":{
+		"shoulder":"regular",
+		"arm":{
+			"upper arm":[15,13],
+			"forearm":[15,11],
+			"hand":"Knotty"
+		},
+	"lower part of body":{
+		"leg":{
+			"thigh":[20,21],
+			"calf":[21,20],
+			"foot":40
+			}
+		}
+	
+	}
+}
